@@ -8,7 +8,10 @@ const Hero = () => {
           explicabo debitis est autem dicta.
         </p>
         <a href='#tours' className='btn hero-btn'>
-          explore tours
+          <img
+            href='D:\Downloads\photo_5782700279383309727_y.jpg'
+            alt='explore button'
+          />
         </a>
       </div>
     </section>
