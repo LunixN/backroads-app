@@ -1,5 +1,5 @@
 import { servicesDetails } from "../data";
-const Service = ({}) => {
+const Service = () => {
   return (
     <div className='section-center services-center'>
       {servicesDetails.map((service) => {
